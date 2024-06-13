@@ -1,0 +1,19 @@
+git commands--
+
+	1.git --version 	// for checking hit version 
+	2.git init 		// for initialising git inside a project folder
+	3.git add [file name] 	// for tracking changes
+	4.git status 		// to show tracking status
+	5.git add [./-A] 	// to track all files in a project
+	6.git commit -m 	// to permanently save changes
+	7.git logs 		// for checking changes and change ids
+	8.git commit 		// to store the changes permanently 
+	9.git push 		// to push 
+	10.git remote add origin // to  connect remote repository to local repository
+	11.git remote 		// to check whether the repositories are connected
+	12.git pull 		// to fetch from remote repo
+	13.git branch 		// to know current branch 
+	14.git branch [name] 	// 
+	15.git checkout [branch name] // to switch branches
+	16.git clone [link] 	// to fetch a new repo from GitHub 
+
